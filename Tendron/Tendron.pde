@@ -2,7 +2,7 @@
 PImage backdrop,foreground;
 int dandyH=400;
 DandyDust[] flurries;
-int flurryCount=10;
+int flurryCount=7;
 
 void setup() {
   size(960, 720);
