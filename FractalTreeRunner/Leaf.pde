@@ -43,12 +43,4 @@ class Leaf {
       yspeed=((int)random(6));
     }
   }
-
-  int getX() {
-    return x;
-  }
-
-  int getY() {
-    return y;
-  }
 }
